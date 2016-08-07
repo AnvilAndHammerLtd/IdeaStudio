@@ -1,0 +1,98 @@
+
+
+body{background-color:black; color:white; font-size:20px;}
+
+#container{
+	width:100%;
+	height:100%;
+	}
+#header img{	width:100%;}
+
+	#mainnav{
+	float:left;
+	left:80px;
+	margin-top:70px;
+	font-size:20px;
+	}
+	
+#mainnav a:link{color:white; text-decoration:none;}
+#mainnav a:visited{color:white; text-decoration:none;}
+#mainnav a:hover{color:yellow; text-decoration:none;}
+#mainnav a:active{color:yellow; text-decoration:none;}
+
+#navbullet1{color:#ffffff;}
+#navbullet2{color:#BE353C;}
+#navbullet3{color:#E3AD03;}
+#navbullet4{color:#FFEE27;}
+#navbullet5{color:#B6E32D;}
+#navbullet6{color:#8CE6F2;}
+#navbullet7{color:#3A9E9E;}
+#navbullet8{color:#8B2B78;}
+#navbullet9{color:#65CADE;}
+#navbullet10{color:#ffffff;}
+
+
+#pagetitle{
+	margin-left:250px;
+	font-family:britannic bold;
+	font-size:35px;	
+	}
+
+#letter1h{color:#ffffff;}
+#letter2p{color:#BE353C;}
+#letter3s{color:#E3AD03;}
+#letter4w{color:#FFEE27;}
+#letter53d{color:#B6E32D;}
+#letter6l{color:#65CADE;}
+#letter7s{color:#054F4F;}
+#letter8t{color:#8B2B78;}
+#letter9b{color:#65CADE;}
+#letter10c{color:#ffffff;}
+
+#info{
+	margin-left:220px;
+	margin-top:20px;
+	}
+	
+	
+#content{
+	margin-left:220px;
+	margin-top:90px;
+	}
+	
+	
+#footer{
+	margin-top:500px;
+	}
+	
+.mainconttable {
+	position:relative;
+	float:left; 
+	border-style:solid;
+	border-width:4px;
+}
+.conttable2{border-color:#BE353C;}
+.conttable3{border-color:#E3AD03;}
+.conttable4{border-color:#FFEE27;}
+.conttable5{border-color:#B6E32D;}
+.conttable6{border-color:#65CADE;}
+.conttable7{border-color:#054F4F;}
+.conttable8{border-color:#8B2B78;}
+.conttable9{border-color:#65CADE;}
+
+.hrall{border:none; height:5px; width:450px;}
+.hr1{background-color:#ffffff;}
+.hr2{background-color:#BE353C;}
+.hr3{background-color:#E3AD03;}
+.hr4{background-color:#FFEE27;}
+.hr5{background-color:#B6E32D;}
+.hr6{background-color:#65CADE;}
+.hr7{background-color:#054F4F;}
+.hr8{background-color:#8B2B78;}
+.hr9{background-color:#65CADE;}
+.hr10{background-color:#ffffff;}
+
+a:link{color:yellow; text-decoration:none;}
+a:visited{color:yellow; text-decoration:none;}
+a:hover{color:green; text-decoration:none;}
+a:active{color:green; text-decoration:none;}
